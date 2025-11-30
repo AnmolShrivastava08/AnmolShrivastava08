@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python,DotNet and Java
 - 🌱 I’m currently learning Python Automation.
 - 💞️ I’m looking to collaborate on UI/UX.
-- 📫 Email- Anmolshri86@gmail.com
+- 📫 Email- Anmolshri@icloud.com
